@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\Fishy\bin\Debug\Fishy.exe.config
+C:\Users\felix\source\repos\Fishy\bin\Debug\Fishy.exe
+C:\Users\felix\source\repos\Fishy\bin\Debug\Fishy.pdb
+C:\Users\felix\source\repos\Fishy\obj\Debug\Fishy.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\Fishy\obj\Debug\Fishy.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\Fishy\obj\Debug\Fishy.exe
+C:\Users\felix\source\repos\Fishy\obj\Debug\Fishy.pdb
